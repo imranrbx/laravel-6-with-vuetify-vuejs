@@ -1,0 +1,8 @@
+production:
+    host: "ftp.perfectwebsolutions.info"
+    user: "perfectw"
+    pass: "#ZXC9434691#"
+    path:
+        local: "./"
+        remote: "/public_html/myapp"
+    branch: master
